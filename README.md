@@ -53,10 +53,7 @@ Virtualenv, Jupyter Notebooks
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programacion-facil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programacion-facil&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programacion-facil&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programacion-facil&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 
